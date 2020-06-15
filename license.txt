@@ -1,0 +1,8 @@
+Python libraries needed for running the program.
+
+nltk 3.4.5
+nltk.downloads('stopwords')
+nltk.downloads('avarge_percepton_tagger')
+scikit-learn 0.23.1
+pandas 0.25.1
+numpy 1.16.5
